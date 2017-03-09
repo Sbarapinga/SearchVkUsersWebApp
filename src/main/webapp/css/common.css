@@ -7,3 +7,8 @@
     padding-left: 0
 }
 
+.label-group {
+    padding-top: 5px;
+    text-align: left;
+    margin-left: -40px;
+}
